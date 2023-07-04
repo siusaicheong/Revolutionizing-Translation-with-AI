@@ -21,7 +21,7 @@ Please cite as
   title = "Revolutionizing Translation with AI: Unravelling Neural Machine Translation and Generative Pre-trained Large Language Models",
   month = "July 4",
   year = "2023. [Online]",
-  url = "[https://github.com/siusaicheong/Revolutionizing-Translation-with-AI](https://github.com/siusaicheong/Revolutionizing-Translation-with-AI)"
+  url = "https://github.com/siusaicheong/Revolutionizing-Translation-with-AI"
 }
 
 ```
